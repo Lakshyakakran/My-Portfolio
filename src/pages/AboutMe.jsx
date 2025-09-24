@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 
 const AboutMe = () => {
   return (
-    <div id='about' className="w-full pt-5  sm:p-4  flex flex-col items-center justify-center bg-gray-900 ">
+    <div id='about' className="w-full   sm:p-4  flex flex-col items-center justify-center bg-gray-900 ">
       {/* Heading */}
       <h1 className="text-4xl sm:text-5xl pt-5 text-amber-100 font-bold">Who am I?</h1>
 

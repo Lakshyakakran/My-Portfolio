@@ -8,7 +8,7 @@ import Fotter from './pages/Fotter'
 const App = () => {
   return (
    <>
-   <div className='w-full  h-screen bg-gray-900'>
+   <div className='w-full h-screen bg-gray-900'>
     <Homepage/>
     <AboutMe/>
     <Skills/>

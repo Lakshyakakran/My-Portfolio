@@ -10,10 +10,10 @@ const Homepage = () => {
       <div className="w-full  h-full flex items-center flex-col pt-20 ">
        
         {/* About Me */}
-        <h1 className="text-4xl text-white text-center">
+        <h1 className="text-4xl text-gray-100 text-center">
           I'm <span className="text-amber-400">Lakshya Kakran</span>
         </h1>
-        <h2 className="text-5xl text-white  mt-2 text-center font-bold">Frontend Developer</h2>
+        <h2 className="text-5xl text-gray-100  mt-2 text-center font-bold">Frontend Developer</h2>
        
          {/* My Picture */}
         <div className="w-full max-w-sm sm:max-w-md bg-gray-900 md:max-w-lg lg:max-w-xl h-auto mt-10 rounded-lg overflow-hidden shadow-lg">
